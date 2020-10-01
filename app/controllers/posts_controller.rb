@@ -1,1 +1,2 @@
 class PostsController < Post
+end 
